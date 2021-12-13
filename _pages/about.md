@@ -1,3 +1,13 @@
+
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 I  am a PhD from Tezpur University, India and my research interests are on finding disease biomarkers from biological data using machine learning techniques.  The following are a brief overview of my proposed research.
 
 1. Use deep learning models to predict disease biomarkers – gene, pathway, and miRNA biomarkers – and generalize to unseen data instances in real time.
